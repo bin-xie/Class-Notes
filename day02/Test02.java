@@ -1,4 +1,4 @@
-package chaodaima.day02;
+package Notes.day02;
 
 public class Test02 {
    /* //快捷方式 main 回车  或者psvm 回车

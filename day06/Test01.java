@@ -1,4 +1,4 @@
-package chaodaima.day06;
+package Notes.day06;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package notes.day09;
+package Notes.day09;
 
 public class Test07 {
     public static void main(String[] args) {

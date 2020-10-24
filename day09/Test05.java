@@ -1,4 +1,4 @@
-package notes.day09;
+package Notes.day09;
 
 /**
  * 创建数组的3种方式

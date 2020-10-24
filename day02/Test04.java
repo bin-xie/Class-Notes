@@ -1,4 +1,4 @@
-package chaodaima.day02;
+package Notes.day02;
 /*
  * 注释有三种   注释是不会执行的
  * 1.单行注释

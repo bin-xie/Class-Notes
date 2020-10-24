@@ -1,4 +1,4 @@
-package chaodaima.day07;
+package Notes.day07;
 
 public class Test03 {
     public static void main(String[] args) {

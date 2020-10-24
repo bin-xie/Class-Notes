@@ -1,4 +1,4 @@
-package chaodaima.day02;
+package Notes.day02;
 
 public class Test03 {
     /*public static void main(String[] args) {       //每对{} 里面需写代码，就必需按一次tab 不能两次

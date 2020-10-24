@@ -1,4 +1,4 @@
-package chaodaima.day08;
+package Notes.day08;
 
 import java.util.IllegalFormatCodePointException;
 
