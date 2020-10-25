@@ -2,7 +2,7 @@ package Notes.day06;
 
 public class Test08 {
     public static void main(String[] args) {
-        int num=5;
+        int num=2;
         switch (num){
             case 1:
                 System.out.println("打电话给爸爸");

@@ -1,7 +1,7 @@
 package Notes.day03;
-/*
+/**
  * 变量
- * */
+ */
 public class Test01 {
     //程序主入口
     public static void main(String[] args) {

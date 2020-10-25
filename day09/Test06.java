@@ -13,7 +13,7 @@ package Notes.day09;
 public class Test06 {
     public static void main(String[] args) {
         //int num=10;//这就是局部变量
-        int nums[] = new int[5];
+        int[] nums = new int[5];
         System.out.println(nums);    //地址值 [I@723279cf
         System.out.println(nums[0]);//0
         System.out.println(nums[1]);//0

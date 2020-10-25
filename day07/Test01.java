@@ -2,7 +2,7 @@ package Notes.day07;
 
 public class Test01 {
     public static void main(String[] args) {
-        int num=3;
+        int num=1;
         switch (num){
             case 1:
                 System.out.println("是1");

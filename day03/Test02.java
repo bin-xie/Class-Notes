@@ -1,5 +1,7 @@
 package Notes.day03;
-
+/**
+ * 变量
+ */
 public class Test02 {
     public static void main(String[] args) {
         // 1.先定义，先声明 不赋值  不可以直接访问，会报错

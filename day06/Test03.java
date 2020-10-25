@@ -2,7 +2,7 @@ package Notes.day06;
 
 public class Test03 {
     public static void main(String[] args) {
-        /*
+        /**
          *  张三参加计算机编程大赛
          *  如果获得第一名，将参加大学组织夏令营一个月
          *  如果获得第二名， 奖励电脑一台

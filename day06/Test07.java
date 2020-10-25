@@ -8,11 +8,11 @@ public class Test07 {
     public static void main(String[] args) {
         /*if (){
             if (){
-                if (){
-
+                if (){         //if可以无限嵌套
                 }
             }
         }*/
+
         /*int num=1;
         switch (num){
             case 1:
@@ -20,9 +20,8 @@ public class Test07 {
                 //只能写在这里
                 switch (num2) {
                     case 1:
-                        *//*switch (){
-
-                        }*//*
+                        *//*switch (){      //switch可以无限嵌套
+                        }*//*               //switch只能应用等值条件
                         break;
                 }
                 break;
@@ -35,8 +34,11 @@ public class Test07 {
         }*/
 
         int num=1;
-        //switch 可以嵌套 if else
-        //if else 可以嵌套 switch
+
+        /**switch 可以嵌套 if else
+         * if else 可以嵌套 switch
+         */
+
         switch (num){
             case 1:
                 System.out.println("星期一");

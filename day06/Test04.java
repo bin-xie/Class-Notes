@@ -1,5 +1,8 @@
 package Notes.day06;
 
+/**
+ * switch结构
+ */
 public class Test04 {
     /**
      *  张三参加计算机编程大赛

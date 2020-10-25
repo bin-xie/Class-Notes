@@ -5,7 +5,7 @@ public class Test06 {
         int num=3;
         switch (num){
             default:
-                System.out.println();
+                System.out.println("星期天");
                 break;
             case 1:
                 System.out.println("星期一");
@@ -20,7 +20,6 @@ public class Test06 {
                 break;    //break 就是跳出当前 switch选择结构
             case 6:
                 System.out.println("星期六");
-
         }
     }
 }
