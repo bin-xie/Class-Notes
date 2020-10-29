@@ -2,7 +2,7 @@ package Notes.day09;
 
 /**
  * 学习数组
- * int 类型
+ * 循环遍历
  * 下标是从0开始的
  */
 public class Test04 {

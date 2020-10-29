@@ -1,7 +1,9 @@
 package Notes.day08;
 
 import java.util.IllegalFormatCodePointException;
-
+/**
+ * for循环 题目解析：通过for循环求 1~100的奇数和
+ */
 public class Test04 {
     public static void main(String[] args) {
         //通过for循环求 1~100的奇数和

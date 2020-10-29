@@ -1,5 +1,8 @@
 package Notes.day08;
-
+/**
+ * 复习while与do..while
+ * 题目讲解： 今年招生人数20000  每年增长 25% 求出 多年之后达到100W
+ */
 import java.util.Scanner;
 
 public class Test01 {
@@ -22,13 +25,13 @@ public class Test01 {
            System.out.println("请输入值");
            str=sc.next();
        }while (!"y".equals(str));
-*/
-
-        //今年招生人数20000
-        int yeay =2020;
+       */
+       /**
+        *  今年招生人数20000  每年增长 25% 求出 多年之后达到100W
+        */
+        int yeay =2020;             //今年招生人数20000
         int students=20000;
-        //每年增长 25% 求出 多年之后达到100W
-        while (students<1000000){
+        while (students<1000000){           //每年增长 25% 求出 多年之后达到100W
             students=(int)(students*(1+0.25));          // students=students*(1+0.25);强转为int
             yeay++;
         }

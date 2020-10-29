@@ -1,7 +1,9 @@
 package Notes.day08;
 
 import java.util.Scanner;
-
+/**
+ * for循环 题目解析：录入 张三的5门成绩  并求平均分
+ */
 public class Test03 {
     public static void main(String[] args) {
          //录入 张三的5门成绩  并求平均分

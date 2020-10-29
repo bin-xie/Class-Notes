@@ -1,6 +1,9 @@
 package Notes.day06;
 
 public class Test08 {
+    /**
+     * switch选择结构
+     */
     public static void main(String[] args) {
         int num=2;
         switch (num){

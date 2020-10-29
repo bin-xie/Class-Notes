@@ -19,7 +19,9 @@ public class Test03 {
         //strs[5]="f";   //下标没有五，数组只有5位，下标就是01234
                        //会报ArrayIndexOutOfBoundsException
 
-        //查询数组容量
+        /**
+         *  查询数组容量   System.out.println("数组的长度为："+strs.length);
+         */
         System.out.println("数组的长度为："+strs.length);
         System.out.println("==================================");
         for (int i=0;i<strs.length;i++){

@@ -1,6 +1,9 @@
 package Notes.day05;
 
 public class Test08 {
+    /**
+     * if 嵌套结构
+     */
     public static void main(String[] args) {
         /**
          * 如果 10秒 以下进入决赛

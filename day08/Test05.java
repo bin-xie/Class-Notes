@@ -1,7 +1,9 @@
 package Notes.day08;
 
 import java.util.Scanner;
-
+/**
+ * for循环 题目解析：输出一个值 输出加发表
+ */
 public class Test05 {
     // 输出一个值  输出加发表
     public static void main(String[] args) {

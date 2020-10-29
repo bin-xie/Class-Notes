@@ -10,8 +10,8 @@ public class Test02 {
 
         //定义一个int数组变量，可以存多个数字
         //int nums[]={1,2,3,4,5};
-        int[] nums={1,2,3,4,5};      //也可以这样
-        System.out.println(nums);   // [I@723279cf
+        int[] nums={1,2,3,4,5};        //也可以这样
+        System.out.println(nums);      // [I@723279cf
         System.out.println(nums[2]);   //获取下标为2的值  运行值为3
         System.out.println(nums[4]);   //获取为5的值
 

@@ -4,11 +4,11 @@ package Notes.day09;
  * 1.栈内存空间：  存放方法中的去局部变量
  * 2.堆 内 存 ：  只要new出来的就存在堆内存里c'x'x
  *               堆内存里面的东西都有一个地址值
- *               堆内存都有默认值
+ *              堆内存都有默认值
  *                   int 默认值为 0
  *                   String 默认值为 null
  *                   boolean 默认值为 false
- * 3.方 法 区 ：   存储class相关的信息包含方法的信息
+ * 3.方 法 区 ：  存储class相关的信息包含方法的信息
  */
 public class Test06 {
     public static void main(String[] args) {
