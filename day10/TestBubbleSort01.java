@@ -11,7 +11,7 @@ package Notes.day10;
  * 冒泡排序 选择排序 插入排序 希尔排序 归并排序 快速排序 堆排序 计数排序 桶排序 基数排序
  * 	Arrays.sort(nums);  是快速排序和优化的归并排序
  */
-public class Test04 {
+public class TestBubbleSort01 {
     public static void main(String[] args) {
 
         /*int nums[] = {5,2};
@@ -33,7 +33,7 @@ public class Test04 {
         }*/
 
        /*int nums[] = {2,5,1,9,6};
-       for (int end=nums.length-1;end>0;end--){
+       for (int end=nums.length-1;end>0;end--){   //每次循环减少一次
            for (int i=1;i<end+1;i++){
                if(nums[i-1]>nums[i]){          //2>5    5>1
                    int temp= nums[i-1];        //  不能使用0
@@ -46,8 +46,8 @@ public class Test04 {
         int nums[] = {1,2,5,6,9};   //假设都是排好的
         //int nums[] = {2,5,1,9,6};
         for (int end=nums.length-1;end>0;end--){
-            //假设都是排好的
-            boolean flag = true;
+
+            boolean flag = true;   //防止都是排好的，排好了就为真
             for (int i=1;i<end+1;i++){
                 if(nums[i-1]>nums[i]){          //2>5    5>1
                     int temp= nums[i-1];        //  不能使用0
@@ -57,7 +57,7 @@ public class Test04 {
                 }
             }
             //System.out.println("看我循环几次");
-            if (flag){
+            if (flag){                     //是真就直接跳出循环
                 break;
             }
         }
