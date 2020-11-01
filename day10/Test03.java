@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
- * 排序
+ * 冒泡排序
  */
 public class Test03 {
     public static void main(String[] args) {
